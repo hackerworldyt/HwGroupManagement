@@ -1,5 +1,5 @@
 {
-      "name": "𝐋𝐎𝐑𝐃 𝐙𝐄𝐔𝐒",
+      "name": "HwGroupManagement",
       "description": "Telegram group management bot.",
       "logo": "https://telegra.ph/file/246bdc767f35c6ef3eb32.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "innexi"
       ],   
-   "repository": "https://github.com/heyaaman/PhoenixCollosus.git",
+   "repository": "https://github.com/hackerworldyt/HwGroupManagement.git",
    "addons": [
       {
          "options": {
